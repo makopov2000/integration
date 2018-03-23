@@ -1,0 +1,8 @@
+com\mvpjava\mongo\LogController.class
+com\mvpjava\Main.class
+com\mvpjava\mongoconfig\SystemProfileValueSource2.class
+com\mvpjava\mongo\LogRepository.class
+com\mvpjava\mongo\MongoService.class
+com\mvpjava\mongo\LogRecord.class
+com\mvpjava\mongoconfig\MongoConfigProfiles.class
+com\mvpjava\mongoconfig\MongoProperties.class

@@ -1,0 +1,6 @@
+com\mvpjava\it\mongo\embeddedMongo\MongoSliceIT.class
+unit\BookTest.class
+com\mvpjava\it\mongo\embeddedMongo\MongoTomcatIT.class
+com\mvpjava\it\mongo\realMongo\RealMongoEmbeddTomcatIT.class
+unit\UselessUnitTest.class
+com\mvpjava\it\mongo\embeddedMongo\MongoSliceWithServiceIT.class
